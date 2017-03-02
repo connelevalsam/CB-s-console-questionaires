@@ -1,0 +1,5 @@
+    List two Java IDE’s
+    List some Java keywords(unlike C, C++ keywords)
+    List any five features of Java
+    Define class
+    What kind of variables a class can consist of
